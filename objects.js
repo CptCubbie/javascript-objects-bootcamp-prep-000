@@ -4,3 +4,7 @@ var playlist = {
   helena: "dylan",
   alice: "tasha"
 };
+
+function updatePlaylist(playlist, artistName, songTitle) {
+  obj[key]:value
+};
