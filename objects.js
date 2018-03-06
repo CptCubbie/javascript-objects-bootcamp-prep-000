@@ -6,9 +6,9 @@ var playlist = {
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  obj[key]=value;
+  playist[artistName]=songTitle;
 }
 
 function removeFromPlaylist(playlist, artistName) {
-  delete key[value];
+  delete obj[key];
 }
